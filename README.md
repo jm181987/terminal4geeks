@@ -1,41 +1,28 @@
-![Command Line Preview](https://raw.githubusercontent.com/breatheco-de/exercise-terminal-challenge/master/preview.png)
+# Desafío de terminal
 
-This command line challenge is designed to help you become familiar with the bash/command line. The challenge goes over the most used commands every developer needs to know in order to succeed in real life.
+Ejercicio para practicar comandos de terminal y Bash en un entorno Linux.
 
-> :exclamation: We strongly recommend reading [The Command Line lesson](https://content.breatheco.de/en/lesson/the-command-line-the-terminal) on the BreatheCode platform.
+## Tecnologías
 
-💻The challenge is built for computers using the Linux bash. Use [Gitpod](https://gitpod.io) if you need a terminal in the cloud. 
+Bash; Node.js para la presentación del ejercicio.
 
-## 🌱  How to start this project
+## Instalación y uso
 
-### 👩‍🎓Students and Teachers must follow this step:
+Clona el proyecto:
 
-This project comes with the necessary files to start working, but you have two options to start:
-
-a) Open this link in your browser to clone it with gitpod (recommended): https://gitpod.io#https://github.com/breatheco-de/exercise-terminal-challenge.git
-
-b) You can clone this repository on your local computer:
-
-```sh
-$ git https://github.com/breatheco-de/excercise-terminal-challenge.git
+```bash
+git clone https://github.com/jm181987/terminal4geeks.git
+cd terminal4geeks
 ```
 
-💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+Clona el repositorio. Para la presentación, ejecuta `npm install` y `npm run start` si los scripts están disponibles.
 
-## Only teachers must follow this step:
+## Mantenimiento y seguridad
 
-#### 1) Install the packages.
+- Comprueba los scripts y las dependencias reales antes de desplegar.
+- No publiques credenciales, claves ni datos privados.
+- Documenta errores con pasos de reproducción y resultados esperados.
 
-```sh
-$ npm install
-```
+## Créditos
 
-#### 2) Run the presentation.
-
-```sh
-$ npm run start
-```
-
-# Start Playing!
-
-Follow the presentation for better experience.
+Repositorio de **KNJ** · [KNJ Marketing](https://www.marketingknj.site/).
